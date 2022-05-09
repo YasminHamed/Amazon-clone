@@ -1,0 +1,46 @@
+
+  #footer{
+    border: 0;
+     height: 0;
+     border-top: 1px solid rgba(0, 0, 0, 0.1);
+     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+     margin-top: 30px;
+  }
+  
+  .extra a{
+      text-decoration: none;
+      margin-left: 20px;
+  }
+  
+  .foot{
+      margin: 20px 0 10px 0;
+  }
+
+  .visit:link{
+    font-size: 12px;
+    /*margin: 0 10px 0px 10px;*/
+    margin-right: 10px;
+    text-decoration: none;
+    color: #0066c0
+  }
+  .visit:hover{
+    text-decoration: underline;
+    color: orangergb(230, 161, 28);
+  }
+  
+  .visit:visited{
+    color: #0066c0;
+  }
+  
+   .links{
+    font-size: 10px;
+    text-align: center;
+    padding-left: 15px;
+  }
+  
+  #password{
+    margin-left: 125px;
+  }
+  #special{
+    font-size: 11px;
+  }
